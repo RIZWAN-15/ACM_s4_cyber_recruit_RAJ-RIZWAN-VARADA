@@ -8,6 +8,7 @@ as i dont have knowledge related to harrypotter I searched in web and i found th
 The clue also tells that there exist some file and the password for that file is: albuspercivalwulfricbriandumbledore
 
 later By this clue I tried the command (steghide info wand.jpeg)
+and (steghide extract -sf wand.jpeg)
 Then I entered the password and a hide.txt file is saved in the system
 
 This hide.txt is the flag
